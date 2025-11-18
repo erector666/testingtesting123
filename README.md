@@ -10,7 +10,7 @@ First, run the development server:
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 ## Technologies
 
@@ -23,3 +23,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - `app/`: Contains the main application code.
 - `package.json`: Defines the project dependencies and scripts.
 - `tailwind.config.js`: Configures the Tailwind CSS framework.
+
+## TODO
+
+- [x] Add "use client" directive to `app/dashboard/page.tsx`
+- [x] Install `leaflet` dependency
+- [x] Install `react-leaflet` dependency
