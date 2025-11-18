@@ -12,7 +12,9 @@
 "next": "latest",
 "react": "latest",
 "react-dom": "latest",
-"tailwindcss": "latest"
+"tailwindcss": "latest",
+"leaflet": "latest",
+"react-leaflet": "latest"
 },
 "devDependencies": {
 "autoprefixer": "latest",
